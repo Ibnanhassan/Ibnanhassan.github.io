@@ -1,5 +1,3 @@
-# Ibnanhassan.github.io
-
 # Ibnan A. Hassan — Portfolio README
 
 ## 📌 About Me
