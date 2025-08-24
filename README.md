@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="ibnan.JPG" alt="Profile picture" width="250" style="border-radius:50%;">
+  <img src="ibnan.JPG" 
+       alt="Profile picture" 
+       width="250" 
+       style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2); object-fit: cover;">
 </p>
+
 
 # Ibnan A. Hassan — Portfolio README
 
