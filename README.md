@@ -1,3 +1,5 @@
+![Profile picture](ibnan.JPG)
+
 # Ibnan A. Hassan — Portfolio README
 
 ## 📌 About Me
