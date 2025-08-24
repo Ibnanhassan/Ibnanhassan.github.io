@@ -1,4 +1,6 @@
-![Profile picture](ibnan.JPG)
+<p align="center">
+  <img src="ibnan.JPG" alt="Profile picture" width="250" style="border-radius:50%;">
+</p>
 
 # Ibnan A. Hassan — Portfolio README
 
